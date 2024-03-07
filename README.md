@@ -38,7 +38,7 @@ Now, you can use the utility classes in your HTML. For example:
 
 - **p-px-10**:"p" represents padding.(padding: 10px)
 - **m-px-10**:"m" represents margin.(margin: 10px)
-- **gap-10**:"gap" represents gap.(gap: 10px)
+- **gap-px-10**:"gap" represents gap.(gap: 10px)
 
 
 ### Percentage Terms
