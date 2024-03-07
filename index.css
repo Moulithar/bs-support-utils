@@ -1,0 +1,369 @@
+/* index.css */
+/* PADDING in px from 1 - 100 */
+
+/* Padding Utilities */
+.p-px-1 {
+  padding: 1px;
+}
+.p-px-2 {
+  padding: 2px;
+}
+.p-px-3 {
+  padding: 3px;
+}
+.p-px-4 {
+  padding: 4px;
+}
+.p-px-5 {
+  padding: 5px;
+}
+.p-px-6 {
+  padding: 6px;
+}
+.p-px-7 {
+  padding: 7px;
+}
+.p-px-8 {
+  padding: 8px;
+}
+.p-px-9 {
+  padding: 9px;
+}
+.p-px-10 {
+  padding: 10px;
+}
+.p-px-11 {
+  padding: 11px;
+}
+.p-px-12 {
+  padding: 12px;
+}
+.p-px-13 {
+  padding: 13px;
+}
+.p-px-14 {
+  padding: 14px;
+}
+.p-px-15 {
+  padding: 15px;
+}
+.p-px-16 {
+  padding: 16px;
+}
+.p-px-17 {
+  padding: 17px;
+}
+.p-px-18 {
+  padding: 18px;
+}
+.p-px-19 {
+  padding: 19px;
+}
+.p-px-20 {
+  padding: 20px;
+}
+.p-px-21 {
+  padding: 21px;
+}
+.p-px-22 {
+  padding: 22px;
+}
+.p-px-23 {
+  padding: 23px;
+}
+.p-px-24 {
+  padding: 24px;
+}
+.p-px-25 {
+  padding: 25px;
+}
+.p-px-26 {
+  padding: 26px;
+}
+.p-px-27 {
+  padding: 27px;
+}
+.p-px-28 {
+  padding: 28px;
+}
+.p-px-29 {
+  padding: 29px;
+}
+.p-px-30 {
+  padding: 30px;
+}
+.p-px-31 {
+  padding: 31px;
+}
+.p-px-32 {
+  padding: 32px;
+}
+.p-px-33 {
+  padding: 33px;
+}
+.p-px-34 {
+  padding: 34px;
+}
+.p-px-35 {
+  padding: 35px;
+}
+.p-px-36 {
+  padding: 36px;
+}
+.p-px-37 {
+  padding: 37px;
+}
+.p-px-38 {
+  padding: 38px;
+}
+.p-px-39 {
+  padding: 39px;
+}
+.p-px-40 {
+  padding: 40px;
+}
+.p-px-41 {
+  padding: 41px;
+}
+.p-px-42 {
+  padding: 42px;
+}
+.p-px-43 {
+  padding: 43px;
+}
+.p-px-44 {
+  padding: 44px;
+}
+.p-px-45 {
+  padding: 45px;
+}
+.p-px-46 {
+  padding: 46px;
+}
+.p-px-47 {
+  padding: 47px;
+}
+.p-px-48 {
+  padding: 48px;
+}
+.p-px-49 {
+  padding: 49px;
+}
+.p-px-50 {
+  padding: 50px;
+}
+.p-px-51 {
+  padding: 51px;
+}
+.p-px-52 {
+  padding: 52px;
+}
+.p-px-53 {
+  padding: 53px;
+}
+.p-px-54 {
+  padding: 54px;
+}
+.p-px-55 {
+  padding: 55px;
+}
+.p-px-56 {
+  padding: 56px;
+}
+.p-px-57 {
+  padding: 57px;
+}
+.p-px-58 {
+  padding: 58px;
+}
+.p-px-59 {
+  padding: 59px;
+}
+.p-px-60 {
+  padding: 60px;
+}
+.p-px-61 {
+  padding: 61px;
+}
+.p-px-62 {
+  padding: 62px;
+}
+.p-px-63 {
+  padding: 63px;
+}
+.p-px-64 {
+  padding: 64px;
+}
+.p-px-65 {
+  padding: 65px;
+}
+.p-px-66 {
+  padding: 66px;
+}
+.p-px-67 {
+  padding: 67px;
+}
+.p-px-68 {
+  padding: 68px;
+}
+.p-px-69 {
+  padding: 69px;
+}
+.p-px-70 {
+  padding: 70px;
+}
+.p-px-71 {
+  padding: 71px;
+}
+.p-px-72 {
+  padding: 72px;
+}
+.p-px-73 {
+  padding: 73px;
+}
+.p-px-74 {
+  padding: 74px;
+}
+.p-px-75 {
+  padding: 75px;
+}
+.p-px-76 {
+  padding: 76px;
+}
+.p-px-77 {
+  padding: 77px;
+}
+.p-px-78 {
+  padding: 78px;
+}
+.p-px-79 {
+  padding: 79px;
+}
+.p-px-80 {
+  padding: 80px;
+}
+.p-px-81 {
+  padding: 81px;
+}
+.p-px-82 {
+  padding: 82px;
+}
+.p-px-83 {
+  padding: 83px;
+}
+.p-px-84 {
+  padding: 84px;
+}
+.p-px-85 {
+  padding: 85px;
+}
+.p-px-86 {
+  padding: 86px;
+}
+.p-px-87 {
+  padding: 87px;
+}
+.p-px-88 {
+  padding: 88px;
+}
+.p-px-89 {
+  padding: 89px;
+}
+.p-px-90 {
+  padding: 90px;
+}
+.p-px-91 {
+  padding: 91px;
+}
+.p-px-92 {
+  padding: 92px;
+}
+.p-px-93 {
+  padding: 93px;
+}
+.p-px-94 {
+  padding: 94px;
+}
+.p-px-95 {
+  padding: 95px;
+}
+.p-px-96 {
+  padding: 96px;
+}
+.p-px-97 {
+  padding: 97px;
+}
+.p-px-98 {
+  padding: 98px;
+}
+.p-px-99 {
+  padding: 99px;
+}
+.p-px-100 {
+  padding: 100px;
+}
+
+/* Standard pointer */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Help cursor */
+.cursor-help {
+  cursor: help;
+}
+
+/* Wait cursor */
+.cursor-wait {
+  cursor: wait;
+}
+
+/* Text selection cursor */
+.cursor-text {
+  cursor: text;
+}
+
+/* Disabled cursor */
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+/* Move cursor */
+.cursor-move {
+  cursor: move;
+}
+
+/* Crosshair cursor */
+.cursor-crosshair {
+  cursor: crosshair;
+}
+
+/* Zoom-in cursor */
+.cursor-zoom-in {
+  cursor: zoom-in;
+}
+
+/* Zoom-out cursor */
+.cursor-zoom-out {
+  cursor: zoom-out;
+}
+
+/* Grab cursor (useful for drag and drop interfaces) */
+.cursor-grab {
+  cursor: grab;
+}
+
+/* Grabbing cursor (useful for indicating that an item is being dragged) */
+.cursor-grabbing {
+  cursor: grabbing;
+}
+
+/* Pointer to indicate a link */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Default cursor */
+.cursor-default {
+  cursor: default;
+}
