@@ -19,12 +19,15 @@ yarn add bs-support-utils
 ```
 
 ## Usage
- ### After installation, import the CSS file into your project to start using the utilities:
+  After installation, import the CSS file into your project to start using the utilities:
 ```bash
 @import 'bootstrap-support-utilities/index.css';
 ```
+Now, you can use the utility classes in your HTML. For example:
 
+
+<!-- 
 ## Demos
 [Link Text](https://example.com)
 
-![Alt Text](https://picsum.photos/200/300)
+![Alt Text](https://picsum.photos/200/300) -->
