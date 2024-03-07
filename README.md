@@ -19,15 +19,19 @@ yarn add bs-support-utils
 ```
 
 ## Usage
-  After installation, import the CSS file into your project to start using the utilities:
+  After installation, import the CSS file into your project **(app.js or index.js)** to start using the utilities:
 ```bash
 @import 'bootstrap-support-utilities/index.css';
 ```
 Now, you can use the utility classes in your HTML. For example:
 
+```bash
+<div class="cursor-pointer">Hover over me!</div>
+<div class="p-px-50">This div has 50 pixels of padding.</div>
+```
 
-<!-- 
-## Demos
-[Link Text](https://example.com)
+## Contributing
+Contributions to bootstrap-support-utilities are welcome! If you have a suggestion or want to contribute more utilities, please feel free to submit a pull request or open an issue.
 
-![Alt Text](https://picsum.photos/200/300) -->
+## License
+This project is licensed under the [MIT License](https://github.com/Moulithar/bootstrap-support-utilities?tab=MIT-1-ov-file#readme)
