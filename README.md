@@ -1,5 +1,5 @@
-# bootstrap-support-utilities
-"bootstrap-support-utilities extends Bootstrap with additional CSS classes for cursor, padding, margin, gaps, and sizing. Offering fine-grained styling control beyond Bootstrap's core utilities."
+# bs-support-utils(Bootstrap Support Utilities)
+"bs-support-utils extends Bootstrap with additional CSS classes for cursor, padding, margin, gaps, and sizing. Offering fine-grained styling control beyond Bootstrap's core utilities."
 
 ## Features
 
@@ -11,20 +11,20 @@
 To include `bootstrap-support-utilities` in your project, run:
 
 ```bash
-npm install bootstrap-support-utilities
+npm install bs-support-utils
+```
 Or if you prefer using Yarn:
-yarn add bootstrap-support-utilities
+```bash
+yarn add bs-support-utils
 ```
 
 ## Usage
  ### After installation, import the CSS file into your project to start using the utilities:
 ```bash
 @import 'bootstrap-support-utilities/index.css';
-
 ```
 
+## Demos
+[Link Text](https://example.com)
 
-
-<span style="font-size: larger;">This text will have a larger font size.</span>
-<span style="font-size: smaller;">This text will have a smaller font size.</span>
-<span style="font-size: 20px;">This text will have a font size of 20 pixels.</span>
+![Alt Text](https://picsum.photos/200/300)
