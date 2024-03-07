@@ -1,16 +1,18 @@
 {
   "name": "bs-support-utils",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "bootstrap",
-  "utilities",
-  "short hands",
-  "support utilities",
-  "react ui components"],
+  "keywords": [
+    "bootstrap",
+    "utilities",
+    "short hands",
+    "support utilities",
+    "react ui components"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
