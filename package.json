@@ -17,5 +17,9 @@
   "license": "MIT",
   "dependencies": {
     "styled-components": "^6.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moulithar/bs-support-utils.git"
   }
 }
