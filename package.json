@@ -1,6 +1,6 @@
 {
   "name": "bs-support-utils",
-  "version": "1.4.12",
+  "version": "1.4.13",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,4 @@
     "type": "git",
     "url": "https://github.com/Moulithar/bs-support-utils.git"
   }
-
 }
