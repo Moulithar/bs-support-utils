@@ -1,6 +1,8 @@
 # bs-support-utils(Bootstrap Support Utilities)
 "bs-support-utils extends Bootstrap with additional CSS classes for cursor, padding, margin, gaps, and sizing. Offering fine-grained styling control beyond Bootstrap's core utilities."
 
+[![npm version](https://badge.fury.io/js/bs-support-utils.svg)](https://badge.fury.io/js/bs-support-utils)
+
 ## Features
 
 - **Cursor Utilities**: Adds cursor-pointer and other cursor-related utility classes missing in Bootstrap.
