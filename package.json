@@ -21,8 +21,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Moulithar/bs-support-utils.git"
-  },
-  "publishConfig": {
-    "registry": " https://www.npmjs.com/package/bs-support-utils"
   }
+
 }
