@@ -38,7 +38,7 @@ Now, you can use the utility classes in your HTML. For example:
 ## Table of Contents
 
 ### version 1
-- **sizing** 
+ **sizing** 
 | Utilities | Description                                                      |
 |-----------|------------------------------------------------------------------|
 | p-px-25   |  PADDING : set padding to 25 pixels                              |
@@ -47,7 +47,7 @@ Now, you can use the utility classes in your HTML. For example:
 | h-pr-25   |   HEIGHT : sets height to 25 percentage                          |
 | w-pr-25   |   WIDTH : sets width to 25 percentage                            |
 
-- **cursor**
+**cursor**
 | Cursor Class         | Description                                       |
 |----------------------|---------------------------------------------------|
 | `cursor-pointer`    | Sets the cursor to a pointer (hand) icon.        |
