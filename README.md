@@ -37,10 +37,42 @@ Now, you can use the utility classes in your HTML. For example:
 ```
 ## Table of Contents
 
-| version | Utilities               | Description                         |
-|---------|-----------------------|-------------------------------------|
-|1| - p-px-25 -m-px-25 | - PADDING : set padding to 25 pixels   - MARGIN : sets margin to 25 pixels      |
-|2| - line-clamp-1 | make the text content in a div ellipsed to a single line                 |
+### version 1
+- **sizing** 
+| Utilities | Description                                                      |
+|-----------|------------------------------------------------------------------|
+| p-px-25   |  PADDING : set padding to 25 pixels                              |
+| m-px-25   |   MARGIN : sets margin to 25 pixels                              |
+| g-px-25   |   GAP : sets gap to 25 pixels                                    |
+| h-pr-25   |   HEIGHT : sets height to 25 percentage                          |
+| w-pr-25   |   WIDTH : sets width to 25 percentage                            |
+
+- **cursor**
+| Cursor Class         | Description                                       |
+|----------------------|---------------------------------------------------|
+| `cursor-pointer`    | Sets the cursor to a pointer (hand) icon.        |
+| `cursor-help`       | Sets the cursor to a help icon.                  |
+| `cursor-wait`       | Sets the cursor to a wait (hourglass) icon.      |
+| `cursor-text`       | Sets the cursor to an I-beam, indicating text.   |
+| `cursor-not-allowed`| Sets the cursor to a not-allowed symbol.         |
+| `cursor-move`       | Sets the cursor to a move icon (crosshair with arrows). |
+| `cursor-crosshair`  | Sets the cursor to a crosshair.                  |
+| `cursor-zoom-in`    | Sets the cursor to indicate zooming in.          |
+| `cursor-zoom-out`   | Sets the cursor to indicate zooming out.         |
+| `cursor-grab`       | Sets the cursor to a grab hand (useful for drag and drop interfaces). |
+| `cursor-grabbing`   | Sets the cursor to indicate something is being grabbed/dragged. |
+| `cursor-default`    | Resets the cursor to the default icon.           |
+
+
+### version 2
+
+### Version 2
+
+| Utilities     | Description                                                      |
+|---------------|------------------------------------------------------------------|
+| `line-clamp-1` | Makes the text content in a div collapse to a single line using ellipsis if it exceeds the div's width. |
+
+
 
 
 
