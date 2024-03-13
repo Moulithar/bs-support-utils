@@ -37,13 +37,11 @@ Now, you can use the utility classes in your HTML. For example:
 ```
 ## Table of Contents
 
-| Section               | Description                         |
-|-----------------------|-------------------------------------|
-| [Introduction](#introduction) | Overview of the project.            |
-| [Getting Started](#getting-started) | Setup instructions.                |
-| [Usage](#usage)             | How to use the application.         |
-| [Contributing](#contributing) | How to contribute to the project.  |
-| [License](#license)         | Licensing information.              |
+| version | Utilities               | Description                         |
+|---------|-----------------------|-------------------------------------|
+|1| - p-px-25 -m-px-25 | - PADDING : set padding to 25 pixels   - MARGIN : sets margin to 25 pixels      |
+|2| - line-clamp-1 | make the text content in a div ellipsed to a single line                 |
+
 
 
 ### Pixel Terms
